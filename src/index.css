@@ -1,0 +1,13 @@
+body {
+  margin: 0 auto;
+  padding: 50px;
+  background-color: CadetBlue;
+  font-family: "Montserrat", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
